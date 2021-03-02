@@ -2,6 +2,7 @@
 # Getting Started with Create React App
 
 CAN VIEW MY INVALID-SNAKE AT https://nickomo-react-game.vercel.app/
+DON'T FORGET TURN ON MUSIC
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
